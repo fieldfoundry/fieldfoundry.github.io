@@ -3,11 +3,11 @@ description: |
   Field Foundry allows everyone to make mass spectometry easily. Just a few clicks, and your results are ready.
 address: "London, UK"
 links:
-  - "Resources, Services, /services, true"
-  - "Resources, FAQ, /faq, true"
-  - "About, Contact, /contact, true"
-  - "About, Privacy Policy, /privacy-policy, true"
-  - "About, Terms of Use, /terms-of-use, true"
+  - "Resources, Services, /page/services, true"
+  - "Resources, FAQ, /page/faq, true"
+  - "About, Contact, /page/contact, true"
+  - "About, Privacy Policy, /page/privacy-policy, true"
+  - "About, Terms of Use, /page/terms-of-use, true"
 ---
 
 # Footer Configuration Field Explanation

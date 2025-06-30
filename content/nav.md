@@ -3,10 +3,10 @@ title: "Navigation configuration"
 logo_link: "https://fieldfoundry.com/"
 logo_image: "img/mdfriday.svg"
 left_links:
-  - "Services, /services, true"
-  - "FAQ, /faq, true"
+  - "Services, /page/services, true"
+  - "FAQ, /page/faq, true"
 right_links:
-  - "Contact, mailto:contact@fieldfoundry.com"
+  - "Contact, /page/contact"
 buttons:
   - "Get started, #, true"
 ---
