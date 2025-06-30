@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Field Foundry</title>
-    <link>/</link>
-    <description>Recent content on Field Foundry</description>
-    <generator>Hugo</generator>
-    <language>en-uk</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MDFriday: Product introduction</title>
-      <link>/product/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/product/</guid>
-      <description>&lt;h1 id=&#34;product-field-explanation&#34;&gt;Product Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;title&lt;/strong&gt;: The theme of the current page in the browser.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;tagline&lt;/strong&gt;: A short slogan or subtitle that summarizes the core value or feature of the product.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;highlight&lt;/strong&gt;: A key advantage of the product, such as speed or ease of use, often used to capture the user&amp;rsquo;s attention.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;description&lt;/strong&gt;: A detailed explanation of the product, including its features, benefits, and use cases, helping users better understand the product.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;button_text&lt;/strong&gt;: The text displayed on the button, guiding the user to perform a specific action (e.g., sign up, create a website).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;button_link&lt;/strong&gt;: The link that the button directs to when clicked, leading to a specific page or process.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;freemium_text&lt;/strong&gt;: Text that promotes getting started for free, often used to encourage users to try the product for free or begin their journey.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;claimer1&lt;/strong&gt;: A statement emphasizing a product advantage or feature, such as &amp;ldquo;No coding required.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;claimer2&lt;/strong&gt;: Another statement or supplementary explanation highlighting another benefit or feature of the product.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Field Foundry</title><link>/</link><description>Recent content on Field Foundry</description><generator>Hugo</generator><language>en-uk</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>MDFriday: Product introduction</title><link>/product/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/product/</guid><description>&lt;h1 id="product-field-explanation">Product Field Explanation&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>title&lt;/strong>: The theme of the current page in the browser.&lt;/li>
+&lt;li>&lt;strong>tagline&lt;/strong>: A short slogan or subtitle that summarizes the core value or feature of the product.&lt;/li>
+&lt;li>&lt;strong>highlight&lt;/strong>: A key advantage of the product, such as speed or ease of use, often used to capture the user&amp;rsquo;s attention.&lt;/li>
+&lt;li>&lt;strong>description&lt;/strong>: A detailed explanation of the product, including its features, benefits, and use cases, helping users better understand the product.&lt;/li>
+&lt;li>&lt;strong>button_text&lt;/strong>: The text displayed on the button, guiding the user to perform a specific action (e.g., sign up, create a website).&lt;/li>
+&lt;li>&lt;strong>button_link&lt;/strong>: The link that the button directs to when clicked, leading to a specific page or process.&lt;/li>
+&lt;li>&lt;strong>freemium_text&lt;/strong>: Text that promotes getting started for free, often used to encourage users to try the product for free or begin their journey.&lt;/li>
+&lt;li>&lt;strong>claimer1&lt;/strong>: A statement emphasizing a product advantage or feature, such as &amp;ldquo;No coding required.&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>claimer2&lt;/strong>: Another statement or supplementary explanation highlighting another benefit or feature of the product.&lt;/li>
+&lt;/ul></description></item></channel></rss>
