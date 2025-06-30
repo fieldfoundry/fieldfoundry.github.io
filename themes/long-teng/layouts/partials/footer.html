@@ -77,7 +77,7 @@
                 {{ $isReady := index $linkParts 3 }} <!-- 获取是否准备好 -->
 
                     {{ if eq $isReady "true" }}
-                    <a href="{{ $url }}" target="_blank" class="paragraph-small">{{ $title }}</a>
+                    <a href="{{ $url }}" class="paragraph-small">{{ $title }}</a>
                     {{ else }}
                     <a onclick="showToast()" class="paragraph-small">{{ $title }}</a>
                     {{ end }}

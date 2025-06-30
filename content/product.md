@@ -1,12 +1,12 @@
 ---
-title: "MDFriday: Product introduction"
+title: "Field Foundry"
 tagline: "Mass spectrometry"
 highlight: "redefined"
 description: "Transform your markdown documents into professional, multilingual websites.
 With 500+ free themes and powerful shortcodes to enhance your pages. 
 It’s as easy as taking notes."
 button_text: "Order now"
-button_link: "#how-to"
+button_link: "#order-now"
 freemium_text: "Get started for FREE"
 claimer1: "No coding required, no fuss"
 claimer2: "Just your perfect website"

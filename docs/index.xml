@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Field Foundry</title><link>/</link><description>Recent content on Field Foundry</description><generator>Hugo</generator><language>en-uk</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>MDFriday: Product introduction</title><link>/product/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/product/</guid><description>&lt;h1 id="product-field-explanation">Product Field Explanation&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Field Foundry</title><link>/</link><description>Recent content on Field Foundry</description><generator>Hugo</generator><language>en-uk</language><lastBuildDate>Mon, 30 Jun 2025 16:52:12 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>/page/contact/</link><pubDate>Mon, 30 Jun 2025 16:52:12 +0100</pubDate><guid>/page/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
+&lt;p>Here are my contacts!&lt;/p></description></item><item><title>FAQ</title><link>/page/faq/</link><pubDate>Mon, 30 Jun 2025 16:52:12 +0100</pubDate><guid>/page/faq/</guid><description>&lt;h1 id="faq">FAQ&lt;/h1>
+&lt;h4 id="question-one">Question one&lt;/h4>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel metus nec diam tristique lacinia.&lt;/p>
+&lt;h4 id="question-two">Question two&lt;/h4>
+&lt;p>Vivamus et orci vehicula risus lacinia interdum. Aenean auctor lobortis ante vitae tristique.&lt;/p>
+&lt;h4 id="question-three">Question three&lt;/h4>
+&lt;p>Duis bibendum blandit felis ac convallis. Proin et tempus purus, vitae molestie eros. Duis non metus tortor.&lt;/p>
+&lt;h4 id="question-four">Question four&lt;/h4>
+&lt;p>Duis bibendum blandit felis ac convallis. Proin et tempus purus, vitae molestie eros. Duis non metus tortor.&lt;/p></description></item><item><title>Privacy Policy</title><link>/page/privacy-policy/</link><pubDate>Mon, 30 Jun 2025 16:52:12 +0100</pubDate><guid>/page/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel metus nec diam tristique lacinia. Suspendisse tempus volutpat placerat. Donec quis justo tincidunt, faucibus lorem eu, vulputate est. Vivamus et orci vehicula risus lacinia interdum. Aenean auctor lobortis ante vitae tristique. Fusce lectus purus, vestibulum sollicitudin imperdiet ut, mattis quis justo. Donec mollis ullamcorper justo nec ultricies. Nunc at accumsan sem. Duis bibendum blandit felis ac convallis. Proin et tempus purus, vitae molestie eros. Duis non metus tortor. Suspendisse egestas blandit tempor. Aenean bibendum eros in imperdiet fermentum. Nam vitae blandit libero.&lt;/p></description></item><item><title>Services</title><link>/page/services/</link><pubDate>Mon, 30 Jun 2025 16:52:12 +0100</pubDate><guid>/page/services/</guid><description>&lt;h1 id="services">Services&lt;/h1>
+&lt;h3 id="number-one">Number one&lt;/h3>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel metus nec diam tristique lacinia. Suspendisse tempus volutpat placerat. Donec quis justo tincidunt, faucibus lorem eu, vulputate est.&lt;/p>
+&lt;h3 id="number-two">Number two&lt;/h3>
+&lt;p>Vivamus et orci vehicula risus lacinia interdum. Aenean auctor lobortis ante vitae tristique. Fusce lectus purus, vestibulum sollicitudin imperdiet ut, mattis quis justo. Donec mollis ullamcorper justo nec ultricies. Nunc at accumsan sem.&lt;/p>
+&lt;h3 id="number-three">Number three&lt;/h3>
+&lt;p>Duis bibendum blandit felis ac convallis. Proin et tempus purus, vitae molestie eros. Duis non metus tortor. Suspendisse egestas blandit tempor. Aenean bibendum eros in imperdiet fermentum. Nam vitae blandit libero.&lt;/p></description></item><item><title>Terms of Use</title><link>/page/terms-of-use/</link><pubDate>Mon, 30 Jun 2025 16:52:12 +0100</pubDate><guid>/page/terms-of-use/</guid><description>&lt;h1 id="terms-of-use">Terms of Use&lt;/h1>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel metus nec diam tristique lacinia. Suspendisse tempus volutpat placerat. Donec quis justo tincidunt, faucibus lorem eu, vulputate est. Vivamus et orci vehicula risus lacinia interdum. Aenean auctor lobortis ante vitae tristique. Fusce lectus purus, vestibulum sollicitudin imperdiet ut, mattis quis justo. Donec mollis ullamcorper justo nec ultricies. Nunc at accumsan sem. Duis bibendum blandit felis ac convallis. Proin et tempus purus, vitae molestie eros. Duis non metus tortor. Suspendisse egestas blandit tempor. Aenean bibendum eros in imperdiet fermentum. Nam vitae blandit libero.&lt;/p></description></item><item><title/><link>/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/footer/</guid><description>&lt;h1 id="footer-configuration-field-explanation">Footer Configuration Field Explanation&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>description&lt;/strong>: A detailed description of the product or service that appears in the footer section. It explains the core features or benefits of the product, helping users understand what the service offers. In this case, it emphasizes the ease of building professional, secure websites with MDFriday.&lt;/li>
+&lt;li>&lt;strong>address&lt;/strong>: The physical location of the company or service, displayed in the footer. Here, it shows &amp;ldquo;Wuhan, China.&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>links&lt;/strong>: A list of links to be displayed in the footer section. Each entry consists of a category, a link&amp;rsquo;s title, URL, and a flag indicating whether the link is ready to be used (&lt;code>true&lt;/code> means the link is ready, &lt;code>false&lt;/code> means the link is not yet ready and might trigger an action like &lt;code>onclick&lt;/code>). Links under the same category share the same category name but can have different URLs.
+&lt;ul>
+&lt;li>Example: &lt;code>&amp;quot;Resources, Pricing, /pricing, false&amp;quot;&lt;/code> means there is a &amp;ldquo;Resources&amp;rdquo; category with a link titled &amp;ldquo;Pricing&amp;rdquo; that leads to &lt;code>/pricing&lt;/code>, but it is not ready (likely will trigger an action instead of navigating).&lt;/li>
+&lt;li>Example: &lt;code>&amp;quot;Resources, Documentation, /docs, true&amp;quot;&lt;/code> means there is a &amp;ldquo;Resources&amp;rdquo; category with a link titled &amp;ldquo;Documentation&amp;rdquo; that leads to &lt;code>/docs&lt;/code>, and it is ready for use.&lt;/li>
+&lt;li>Example: &lt;code>&amp;quot;Social Media, Bilibili, https://space.bilibili.com/491786455, true&amp;quot;&lt;/code> means there is a &amp;ldquo;Social Media&amp;rdquo; category with a link titled &amp;ldquo;Bilibili&amp;rdquo; that leads to the provided URL, and it is ready to be used.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="notes">Notes:&lt;/h4>
+&lt;ul>
+&lt;li>Links within the same category (e.g., multiple &amp;ldquo;Resources&amp;rdquo; links) are listed consecutively under the same category name.&lt;/li>
+&lt;li>The category name (e.g., &amp;ldquo;Resources&amp;rdquo;) appears in the first position, followed by the link title, URL, and readiness flag.&lt;/li>
+&lt;/ul></description></item><item><title>Field Foundry</title><link>/product/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/product/</guid><description>&lt;h1 id="product-field-explanation">Product Field Explanation&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>title&lt;/strong>: The theme of the current page in the browser.&lt;/li>
 &lt;li>&lt;strong>tagline&lt;/strong>: A short slogan or subtitle that summarizes the core value or feature of the product.&lt;/li>
@@ -9,4 +42,45 @@
 &lt;li>&lt;strong>freemium_text&lt;/strong>: Text that promotes getting started for free, often used to encourage users to try the product for free or begin their journey.&lt;/li>
 &lt;li>&lt;strong>claimer1&lt;/strong>: A statement emphasizing a product advantage or feature, such as &amp;ldquo;No coding required.&amp;rdquo;&lt;/li>
 &lt;li>&lt;strong>claimer2&lt;/strong>: Another statement or supplementary explanation highlighting another benefit or feature of the product.&lt;/li>
+&lt;/ul></description></item><item><title>How Field Foundry works</title><link>/how-to/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/how-to/</guid><description>&lt;h1 id="how-to-configuration-field-explanation">How-To Configuration Field Explanation&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>title&lt;/strong>: The main title of the page, which is displayed prominently to inform users about the page&amp;rsquo;s purpose. In this case, it provides an overview of how MDFriday works.&lt;/li>
+&lt;li>&lt;strong>subtitle&lt;/strong>: A secondary line of text, usually used to provide additional context or details. It typically appears beneath the title and summarizes the key message. In this case, it gives a brief description of the process of converting MD files into websites quickly.&lt;/li>
+&lt;li>&lt;strong>steps&lt;/strong>: A list of steps to guide users through a process. Each step is represented as a string, and they are listed in order of execution. The format generally includes the step number, a short description, and any relevant instructions or actions to take.
+&lt;ul>
+&lt;li>Example: &lt;code>&amp;quot;1 | Install Obsidian Plugin | Search for MDFriday in Obsidian’s plugin store, download, and enable it.&amp;quot;&lt;/code> explains the first step, which is to install the MDFriday plugin in Obsidian.&lt;/li>
+&lt;li>Example: &lt;code>&amp;quot;2 | Create a Friday Note | Open a new note with MDFriday enabled.&amp;quot;&lt;/code> provides instructions for the second step, creating a new note in Obsidian with MDFriday enabled.&lt;/li>
+&lt;li>Example: &lt;code>&amp;quot;3 | Preview | Select a theme, configure properties, and click Preview.&amp;quot;&lt;/code> guides the user on how to preview the site with MDFriday.&lt;/li>
+&lt;li>Example: &lt;code>&amp;quot;4 | Deploy | Publish your site online at app.mdfriday.com.&amp;quot;&lt;/code> explains the final step, which is to deploy the site after previewing it.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="notes">Notes:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>steps&lt;/strong> are an ordered list of actions the user should take to use MDFriday. Each step includes a number, a title (action), and a brief description of the action.&lt;/li>
+&lt;/ul></description></item><item><title>Navigation configuration</title><link>/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/nav/</guid><description>&lt;h1 id="navigation-configuration-field-explanation">Navigation Configuration Field Explanation&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>title&lt;/strong>: The main title for the navigation section, typically describing the purpose of the navigation configuration, in this case, &amp;ldquo;Navigation Configuration.&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>logo_link&lt;/strong>: The URL where the logo links to when clicked. This is typically the homepage or the main site URL, in this case, &amp;ldquo;&lt;a href="https://mdfriday.com/%22">https://mdfriday.com/&amp;quot;&lt;/a>&lt;/li>
+&lt;li>&lt;strong>logo_image&lt;/strong>: The path to the logo image file used in the navigation bar. This is the image that will be displayed as the logo in the navigation, here it is &amp;ldquo;img/mdfriday.svg.&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>left_links&lt;/strong>: A list of links that will appear on the left side of the navigation bar. Each link is described by a title, URL, and a flag indicating whether the link is ready to be used (&lt;code>true&lt;/code> means the link is ready and functional, &lt;code>false&lt;/code> means the link is not ready, and may trigger an action like &lt;code>onclick&lt;/code> instead of a direct URL).
+&lt;ul>
+&lt;li>Example: &lt;code>&amp;quot;Themes, /themes, false&amp;quot;&lt;/code> means there is a &amp;ldquo;Themes&amp;rdquo; link that leads to &lt;code>/themes&lt;/code>, but it is not yet ready (potentially triggering an action like &lt;code>onclick&lt;/code>).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>right_links&lt;/strong>: A list of links that will appear on the right side of the navigation bar. Similar to &lt;code>left_links&lt;/code>, but typically used for links like &amp;ldquo;Contact Us,&amp;rdquo; external URLs, etc.
+&lt;ul>
+&lt;li>Example: &lt;code>&amp;quot;Contact Us, mailto:service@mdfriday.com&amp;quot;&lt;/code> means there is a &amp;ldquo;Contact Us&amp;rdquo; link that opens the user&amp;rsquo;s email client with the provided email address.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>buttons&lt;/strong>: A list of buttons that can be displayed in the navigation bar. Each button is defined by a text label, URL or action link, and a flag indicating if it’s ready (&lt;code>true&lt;/code> means the button’s action or link is ready, &lt;code>false&lt;/code> means it is not ready and might trigger an action instead).
+&lt;ul>
+&lt;li>Example: &lt;code>&amp;quot;Get started, #, false&amp;quot;&lt;/code> means there is a &amp;ldquo;Get started&amp;rdquo; button with a &lt;code>#&lt;/code> link that is not yet ready (potentially triggering an action like &lt;code>onclick&lt;/code>).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>User Trust and Impact</title><link>/user-trust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/user-trust/</guid><description>&lt;h1 id="user-trust-and-impact-field-explanation">User Trust and Impact Field Explanation&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>title&lt;/strong>: The main title for the page, typically describing the topic or theme of the section, in this case, &amp;ldquo;User Trust and Impact.&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>trusted_count&lt;/strong>: The number of users who trust the service. This field highlights how many users have adopted or endorsed the product, which can serve as social proof to build credibility.&lt;/li>
+&lt;li>&lt;strong>websites_created&lt;/strong>: A description of the number of websites that have been created using the service. It emphasizes the impact and usage of the platform by showcasing how many websites have been powered by MDFriday.&lt;/li>
 &lt;/ul></description></item></channel></rss>
