@@ -27,7 +27,7 @@
                         <div class="paragraph-medium" title="{{ $title }}">{{ $title }}</div>
                     </a>
                     {{ else }}
-                    <a href="{{ $url }}" class="navbar_dropdown-toggle w-inline-block" target="_blank">
+                    <a href="{{ $url }}" class="navbar_dropdown-toggle w-inline-block">
                         <div class="paragraph-medium" title="{{ $title }}">{{ $title }}</div>
                     </a>
                     {{ end }}
@@ -55,7 +55,7 @@
                         {{ if $needsOnClick }}
                         <a onclick="showToast()" class="navbar_dropdown-toggle w-inline-block">
                             {{ else }}
-                            <a href="{{ $url }}" class="navbar_dropdown-toggle w-inline-block" target="_blank">
+                            <a href="{{ $url }}" class="navbar_dropdown-toggle w-inline-block">
                                 {{ end }}
                                 <div class="paragraph-medium" title="{{ $title }}">{{ $title }}</div>
                             </a>
@@ -104,7 +104,7 @@
                            class="button-secondary is-small is-stretched w-inline-block">
                             {{ else }}
                             <a href="{{ $url }}" button="" show-tablet="true"
-                               class="button-secondary is-small is-stretched w-inline-block" target="_blank">
+                               class="button-secondary is-small is-stretched w-inline-block">
                                 {{ end }}
                                 <div title="{{ $title }}">{{ $title }}</div>
                             </a>
