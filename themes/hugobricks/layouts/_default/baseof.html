@@ -13,7 +13,8 @@
     {{- if .Params.color_name -}}{{- $color = .Params.color_name -}}{{- end -}}
     {{- if .Site.Data.settings.color_name -}}{{- $color = .Site.Data.settings.color_name -}}{{- end -}}
     <link href="/css/{{ $color }}.css?version={{ now }}" rel="stylesheet">
-
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="ace2e9b4-c361-4026-9ff6-1d135b9c85e6"></script>
+    
   </head>
   <body id="top" class="{{ if in (substr .Content  0 100) `transparent_header` }}transparent_header{{ end }} filename_{{ with .File }}{{ .BaseFileName }}{{ end }}">
     <script>      
