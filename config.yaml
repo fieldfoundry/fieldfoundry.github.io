@@ -1,7 +1,8 @@
-baseURL: https://www.hugobricks.preview.usecue.com
+baseURL: /
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
+publishDir: ./docs
 
 markup:
   goldmark:

@@ -23,5 +23,5 @@ fields:
 #   required: true
 - name: submit
   input_type: submit
-  label: Submit form
+  label: Send message
   required: true

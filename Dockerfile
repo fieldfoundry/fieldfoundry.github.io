@@ -8,5 +8,5 @@ COPY . .
 RUN make build
 
 FROM scratch
-WORKDIR /public
-COPY --from=build /website/public /public
+WORKDIR /docs
+COPY --from=build /website/docs /docs
