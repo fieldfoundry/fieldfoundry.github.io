@@ -9,14 +9,14 @@ menuitems:
       - title: HPLC Analysis
         link: /measurement/hplc-analysis/
       - title: Coming Soon
-        link: /coming-soon/
+        link: "#"
   - title: Purification
     link: "#"
     items: 
       - title: Producing Standards
         link: /purification/producing-standards/
       - title: Coming Soon
-        link: /coming-soon/
+        link: "#"
   - title: Downstream
     link: "#"
     items: 
@@ -33,5 +33,5 @@ menuitems:
 cta:
   active: true
   title: Get started
-  link: /get-started/
+  link: /contact/
 preheader: open Mon-Fri from 9-5
