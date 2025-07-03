@@ -23,17 +23,17 @@ jobs:
       - name: Build the Docker image
         run: docker build . --file Dockerfile --tag landing
       - name: Create a temporary directory for deployment
-        run: mkdir -p docs
+        run: mkdir -p export/
       - name: Extract files from Docker image
         run: |
           docker create --name temp-container landing nocommand
-          docker cp temp-container:/docs docs/
+          docker cp temp-container:/docs export/
           docker rm temp-container
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: docs-files
-          path: docs/
+          name: export-files
+          path: export/
 
   deploy:
     needs: build
@@ -45,13 +45,13 @@ jobs:
       - name: Download public directory artifact
         uses: actions/download-artifact@v4
         with:
-          name: docs-files
+          name: export-files
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload docs directory
+          # Upload docs/ inside the artifact export-files
           path: 'docs/'
       - name: Deploy to GitHub Pages
         id: deployment
