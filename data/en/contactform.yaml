@@ -1,9 +1,9 @@
-action: /form.php
+action: https://formspree.io/f/xpwrnjdy
 placeholders: false
 fields: 
 - name: title
   input_type: html
-  label: <h3>Tell us a bit about yourself</h3>
+  label: <h3>We'd love to hear from you!</h3>
   required: true
 - name: name
   input_type: text
@@ -17,10 +17,10 @@ fields:
   input_type: textarea
   label: Message
   required: false
-- name: terms
-  input_type: checkbox
-  label: I accept the terms and conditions
-  required: true
+# - name: terms
+#   input_type: checkbox
+#   label: I accept the terms and conditions
+#   required: true
 - name: submit
   input_type: submit
   label: Submit form
