@@ -5,7 +5,7 @@ title: Home
 
 # HPLC? In my internet??
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< button "Request HPLC services" "/contact/" >}}
 
