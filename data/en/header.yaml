@@ -1,7 +1,7 @@
 logo_image: /uploads/FieldFoundryLogo.svg
 logo_subtitle: Mass spectrometry redefined
 dark_header: false
-mobile_view_width: 1100
+mobile_view_width: 960
 menuitems:
   - title: Measurement
     link: "#"
@@ -26,11 +26,10 @@ menuitems:
         link: /downstream/support/
       - title: Prototyping
         link: /downstream/prototyping/
-
-  - title: Blog
-    link: /blog/
-  - title: Contact Us
-    link: /contact/
+  # - title: Blog
+  #   link: /blog/
+  # - title: Contact Us
+  #   link: /contact/
 cta:
   active: true
   title: Get started
