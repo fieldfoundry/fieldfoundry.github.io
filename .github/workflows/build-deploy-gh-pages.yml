@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag landing
+        run: docker build . --tag landing
       - name: Create a temporary directory for deployment
         run: mkdir -p export/
       - name: Extract files from Docker image
