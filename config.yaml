@@ -2,7 +2,7 @@ baseURL: /
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
-publishDir: ./docs
+publishDir: ./public
 
 markup:
   goldmark:
