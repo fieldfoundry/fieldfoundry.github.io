@@ -19,9 +19,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag landing
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag landing
+      - name: Create a temporary directory for deployment
+        run: mkdir -p public
+      - name: Extract files from Docker image
+        run: |
+          docker create --name temp-container landing
+          docker cp temp-container:/public public/
+          docker rm temp-container
 
   deploy:
     needs: build
@@ -30,13 +37,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Create a temporary directory for deployment
-        run: mkdir -p public
-      - name: Extract files from Docker image
-        run: |
-          docker create --name temp-container landing
-          docker cp temp-container:/public public/
-          docker rm temp-container
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
