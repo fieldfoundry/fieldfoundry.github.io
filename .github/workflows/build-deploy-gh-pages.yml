@@ -1,0 +1,58 @@
+name: Deploy Docker Image to GitHub Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build . --tag landing
+      - name: Create a temporary directory for deployment
+        run: mkdir -p export/
+      - name: Extract files from Docker image
+        run: |
+          docker create --name temp-container landing nocommand
+          docker cp temp-container:/docs export/
+          docker rm temp-container
+      - name: Upload public directory as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: export-files
+          path: export/
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download public directory artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: export-files
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload docs/ inside the artifact export-files
+          path: 'docs/'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
