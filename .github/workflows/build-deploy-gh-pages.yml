@@ -21,9 +21,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag landing
+      - name: Create a temporary directory for deployment
+        run: mkdir -p public
+      - name: Extract files from Docker image
         run: |
-          docker build . --file Dockerfile --tag landing
-          echo "::set-output name=image_id::$(docker images -q landing)"
+          docker create --name temp-container landing nocommand
+          docker cp temp-container:/public public/
+          docker rm temp-container
+      - name: Upload public directory as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-files
+          path: public/
 
   deploy:
     needs: build
@@ -32,13 +42,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Create a temporary directory for deployment
-        run: mkdir -p public
-      - name: Extract files from Docker image
-        run: |
-          docker create --name temp-container ${{ needs.build.outputs.image_id }} nocommand
-          docker cp temp-container:/public public/
-          docker rm temp-container
+      - name: Download public directory artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public-files
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
