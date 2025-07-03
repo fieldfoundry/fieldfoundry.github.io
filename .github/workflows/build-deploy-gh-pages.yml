@@ -24,6 +24,7 @@ jobs:
       run: docker build . --file Dockerfile --tag landing
 
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
