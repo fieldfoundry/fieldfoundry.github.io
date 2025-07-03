@@ -26,7 +26,7 @@ jobs:
         run: mkdir -p public
       - name: Extract files from Docker image
         run: |
-          docker create --name temp-container landing
+          docker create --name temp-container landing nocommand
           docker cp temp-container:/public public/
           docker rm temp-container
 
