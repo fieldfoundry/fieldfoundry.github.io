@@ -2,18 +2,35 @@ logo_image:
 menuitems:
   # - title: Services
   #   link: /services/
-  - title: F.A.Q.
-    link: /faq/
-  - title: Contact
-    link:  /contact/
-  - title: Privacy policy
-    link:  /privacy-policy/
-  - title: Terms of Use
-    link:  /terms-of-use/
-socials:
-  - title: LinkedIn
-    link: https://linkedin.com
-    logo_image: /img/linkedin.svg
+  - title: Useful Links
+    link: "#"
+    items:
+      - title: Blog
+        link: /blog/
+      - title: Services
+        link: /services/
+      - title: FAQs
+        link: /faq/
+  - title: Company
+    link:  "#"
+    items:
+      - title: About Us
+        link: /blog/
+      - title: Roadmap
+        link: /services/roadmap/
+      - title: Contact Us
+        link: /contact/
+  - title: Legal
+    link:  "#"
+    items:
+      - title: Privacy Policy
+        link: /privacy-policy/
+      - title: Terms of Use
+        link: /terms-of-use/
+#socials:
+#  - title: LinkedIn
+#    link: https://linkedin.com
+#    logo_image: /img/linkedin.svg
   # - title: Twitter
   #   link: https://twitter.com
   #   logo_image: /img/twitter.svg      

@@ -26,7 +26,25 @@
     font-weight: 700;
     src: url('/fonts/hinted-RosaSans-Bold.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Author-Regular';
+  src: url('../fonts/Author-Regular.woff2') format('woff2'),
+       url('../fonts/Author-Regular.woff') format('woff'),
+       url('../fonts/Author-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Author-SemiBold';
+  src: url('../fonts/Author-SemiBold.woff2') format('woff2'),
+       url('../fonts/Author-SemiBold.woff') format('woff'),
+       url('../fonts/Author-SemiBold.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
 :root {
-    --fontTitles: 'RosaSans', sans-serif;
-    --fontBody: 'Heebo', sans-serif;
+    --fontTitles: 'Author-SemiBold', sans-serif;
+    --fontBody: 'Author-Regular', sans-serif;
 }

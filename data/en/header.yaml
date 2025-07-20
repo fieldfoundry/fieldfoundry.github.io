@@ -1,35 +1,27 @@
 logo_image: /uploads/FieldFoundryLogo.svg
-logo_subtitle: Mass spectrometry redefined
+logo_subtitle: Faster, simpler research services
 dark_header: false
 mobile_view_width: 960
 menuitems:
-  - title: Measurement
-    link: "#"
+  - title: Home
+    link: /
+  - title: Services
+    link: /services/
     items:
-      - title: HPLC Analysis
-        link: /measurement/hplc-analysis/
-      - title: Coming Soon
-        link: "#"
-  - title: Purification
-    link: "#"
-    items: 
-      - title: Producing Standards
-        link: /purification/producing-standards/
-      - title: Coming Soon
-        link: "#"
-  - title: Downstream
-    link: "#"
-    items: 
-      - title: Scale-Up
-        link: /downstream/scale-up/
-      - title: Support
-        link: /downstream/support/
-      - title: Prototyping
-        link: /downstream/prototyping/
-  # - title: Blog
-  #   link: /blog/
-  # - title: Contact Us
-  #   link: /contact/
+      - title: Analytical HPLC
+        link: /services/hplc-analysis/
+      - title: Solubility Testing
+        link: /services/solubility/
+      - title: Services Roadmap
+        link: /services/roadmap
+  - title: Research
+    link: /research/
+  - title: FAQs
+    link: /FAQ/
+  - title: Blog
+    link: /blog/
+  - title: Roadmap
+    link: /services/roadmap/
 cta:
   active: true
   title: Get in touch
