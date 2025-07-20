@@ -10,7 +10,5 @@
 pkgs.mkShell {
   nativeBuildInputs = [
     pkgs.hugo
-    pkgs.go
-    pkgs.nodejs
   ];
 }
