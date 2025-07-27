@@ -22,7 +22,7 @@
     - question: "What columns do you have available?"
       answer: "You have access to our standard C-18, HILIC, biphenyl, and ion-exchange columns. We can also source and install a custom column specifically for your project by arrangement."
     - question: "What mobile phases are available?"
-      answer: "We stock standard mobile phases like water, methanol, and acetonitrile with common additives. If your method requires a custom mobile phase, we can discuss this during your consultation."
+      answer: "We stock standard reverse phase solvents like water, methanol, and acetonitrile with common additives. If your method requires a custom mobile phase, we can discuss this during your consultation."
     - question: "What detectors do you use?"
       answer: "Our systems have both a Photodiode Array (PDA) detector for UV-active compounds and a universal Refractive Index (RID) detector for analytes with little or no UV absorbance, like simple sugars."
     - question: "What equipment is in your lab?"
