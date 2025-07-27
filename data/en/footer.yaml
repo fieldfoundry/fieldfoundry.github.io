@@ -1,32 +1,38 @@
-logo_image:
+logo_image: /uploads/FieldFoundryLogoWhite.svg
 menuitems:
+  - title: About Us
+    link: /about/
+  - title: Privacy Policy
+    link: /privacy-policy/
+  - title: Terms of Use
+    link: /terms-of-use/
   # - title: Services
   #   link: /services/
-  - title: Useful Links
-    link: "#"
-    items:
-      - title: Blog
-        link: /blog/
-      - title: Services
-        link: /services/
-      - title: FAQs
-        link: /faq/
-  - title: Company
-    link:  "#"
-    items:
-      - title: About Us
-        link: /blog/
-      - title: Roadmap
-        link: /services/roadmap/
-      - title: Contact Us
-        link: /contact/
-  - title: Legal
-    link:  "#"
-    items:
-      - title: Privacy Policy
-        link: /privacy-policy/
-      - title: Terms of Use
-        link: /terms-of-use/
+#  - title: Useful Links
+#    link: "#"
+#    items:
+#      - title: Blog
+#        link: /blog/
+#      - title: Services
+#        link: /services/
+#      - title: FAQs
+#        link: /faq/
+#  - title: Company
+#    link:  "#"
+#    items:
+#      - title: About Us
+#        link: /blog/
+#      - title: Roadmap
+#        link: /services/roadmap/
+#      - title: Contact Us
+#        link: /contact/
+#  - title: Legal
+#    link:  "#"
+#    items:
+#      - title: Privacy Policy
+#        link: /privacy-policy/
+#      - title: Terms of Use
+#        link: /terms-of-use/
 #socials:
 #  - title: LinkedIn
 #    link: https://linkedin.com

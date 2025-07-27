@@ -7,21 +7,21 @@ title: Contact us
 
 # Contact us
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Have a question or a project in mind? We'd love to hear from you.
 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Field Foundry Ltd  
+QMB Innovation Centre  
+Ste 7-2, 1st Floor  
+42 New Road  
+London E1 2AX  
 
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+hello@fieldfoundry.com  
++44 (0) 2035760561
 
-joost@vdschee.nl  
-+31 618 518 928
-
-{{< socialbuttons >}}
+<!-- {{< socialbuttons >}} -->
 
 {{< /brick_contact >}}
 {{< brick_map >}}{{< /brick_map >}}

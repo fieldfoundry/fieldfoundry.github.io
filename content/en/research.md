@@ -1,15 +1,31 @@
 ---
-title: First service
+title: Analytical HPLC
 image: /uploads/photos/06.jpg
 tags:
-  -
+  - Available Now
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, nisi quis laoreet commodo, sapien quam consectetur lorem, ut molestie augue eros in enim. Nam tincidunt lobortis sapien, et molestie urna viverra sollicitudin. In hac habitasse platea dictumst. Donec placerat vestibulum luctus. Sed vel convallis nisi.
+{{< brick_wide >}}
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla porta faucibus diam, vitae accumsan odio posuere rhoncus. Nunc pellentesque felis id sapien posuere, et commodo nisi pharetra. Cras pulvinar, urna iaculis pretium facilisis, odio dolor dictum leo, et fringilla libero ante eget elit. Vestibulum quis volutpat ligula. Fusce porta et mi luctus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla id turpis tempor, euismod quam in, sollicitudin nisi. Vivamus a enim bibendum, posuere orci ac, lacinia erat. Morbi varius sapien efficitur, pellentesque elit in, feugiat risus. Vivamus in scelerisque nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+## Research: Downstream Processing
+
+We are focused on developing high-throughput methods for testing separative processes during bioprocess scale-up.
+
+### Let's Collaborate
+
+We are actively seeking partners for grant proposals and prototype development.
+
+* **Grant Collaborations:** We partner with academic and public institutions to pursue ambitious, pre-commercial research. If you are preparing a grant proposal focused on bioprocessing or purification, contact us to discuss how our expertise and preliminary data can strengthen your application.
+
+* **Prototype Development:** We work with engineering partners to build and validate novel DSP prototypes. If you have a specific DSP challenge, let's discuss a development project.
+
+{{< /brick_wide >}}
+
+<!--
+
 
 {{< tabs >}}
+
 
 ## These titles
 
@@ -29,6 +45,7 @@ Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 {{< /tabs >}}
 
+
 [![Unsplash - Ryan Quintal](/uploads/photos/lego.jpg)](/uploads/photos/lego.jpg)
 
 {{< gallery dir="/uploads/gallery/" >}}
@@ -36,5 +53,7 @@ Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Aliquam erat volutpat. Pellentesque mollis dolor sed pretium tincidunt. Morbi pretium aliquam urna et maximus. Suspendisse potenti. Suspendisse vitae mauris et felis tincidunt vulputate. Quisque nec est leo. Cras ut purus nec metus efficitur ullamcorper id ut orci. Nullam egestas nisi sagittis, placerat nunc sed, bibendum ipsum. Proin fermentum mi nec molestie hendrerit. Nullam a justo tortor. Etiam consequat sapien purus, eu maximus dolor pretium vel. Phasellus egestas arcu sapien. Duis id odio id quam viverra gravida non non diam. Maecenas commodo nulla egestas magna faucibus aliquet.
 
 ---
+
+-->
 
 {{< ctaform >}}

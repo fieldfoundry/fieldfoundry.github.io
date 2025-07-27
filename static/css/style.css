@@ -8,7 +8,7 @@
 /*------------------------*/
 
 :root {
-    --textDarker: #1e282d;
+    --textDarker: #003362;
     --textDark: rgba(8, 52, 95, 1);
     --textMedium: rgba(8, 52, 95, 0.7);
     --borderMedium: rgba(8, 52, 95, 0.2);
@@ -49,3 +49,7 @@ img {filter: grayscale(0);}
 
 
 /*------------------------ CSS overrides below ------------------------*/
+
+html {
+  font-size: 120%
+}

@@ -1,6 +1,6 @@
-logo_image: /uploads/FieldFoundryLogo.svg
-logo_subtitle: Faster, simpler research services
-dark_header: false
+logo_image: /uploads/FieldFoundryLogoWhite.svg
+logo_subtitle: Text Here
+dark_header: true
 mobile_view_width: 960
 menuitems:
   - title: Home
@@ -9,19 +9,17 @@ menuitems:
     link: /services/
     items:
       - title: Analytical HPLC
-        link: /services/hplc-analysis/
+        link: /hplc-analysis/
       - title: Solubility Testing
-        link: /services/solubility/
+        link: /solubility/
       - title: Services Roadmap
-        link: /services/roadmap
+        link: /roadmap/
   - title: Research
     link: /research/
   - title: FAQs
     link: /FAQ/
   - title: Blog
     link: /blog/
-  - title: Roadmap
-    link: /services/roadmap/
 cta:
   active: true
   title: Get in touch

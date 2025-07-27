@@ -4,13 +4,14 @@ title: map
 
 ![](/uploads/map.png)
 
-[Google Maps](https://www.google.com/maps)
+[Google Maps](https://maps.app.goo.gl/btA9NtdEuxt7c5137)
 
 ## Contact us
 
-Usecue BV  
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+Field Foundry Ltd  
+QMB Innovation Centre  
+Ste 7-2, 1st Floor  
+42 New Road  
+London E1 2AX  
 
 {{< contactbuttons >}}

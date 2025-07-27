@@ -3,43 +3,51 @@ title: Home
 ---
 {{< brick_intro >}}
 
-# HPLC? Talk to Full Circle!
+# HPLC Made Easy
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+We provide fast, flexible HPLC services for research purposes. Our HPLC Ghost Lab is available through an early access programme starting 1 August. Get in touch for more information.
 
-{{< button "Request HPLC services" "/contact/" >}}
+{{< button "Request Early Access" "/contact/" >}}
 
-![](/uploads/illustrations/cuate/assets.svg)
+![](/uploads/illustrations/hplc_service.png)
 
 {{< /brick_intro >}}
+
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## Our Services
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/illustrations/hplc_service_2.png)
 
-Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+During our Early Access Programme, we offer a focused suite of analytical services designed to accelerate your research. We can assist at every stage, from initial method design to final data interpretation. Our core services include:
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+* Method Transfer
+* Method Development
+* Sample Preparation Support
+* UV-Vis (PDA) and Refractive Index (RID) Detection
+* Data Analysis and Reporting
+* High-Throughput Solubility Screening
 
 {{< /brick_image2 >}}
+
 {{< brick_image >}}
 
-## What bricks are available?
+## How Early Access Works
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/illustrations/hplc.png)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
-
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
-
+* **Consult:** Contact us to discuss how to perform your HPLC measurement and get a quote.
+* **Submit:** Order directly or via Full Circle Labs to use Full Circle sample pickup locations.
+* **Sample Prep:** Samples are prepared for HPLC, including screening for particulate and precipiates.  We will work with you to ensure your samples pass screening.
+* **Analyze:** We run your samples and deliver your processed and raw data in a convenient format.
 {{< /brick_image >}}
+
+<!-- Sections to fill in later
+
 {{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_features >}}
+
+
 
 ## The Ultimate Hugo theme
 
@@ -88,6 +96,7 @@ Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corpori
 Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< /brick_features >}}
+
 {{< brick_prices >}}
 
 ## Our friendly pricing
@@ -147,4 +156,7 @@ Get exceptional value and cost savings with our complete products suite.
 [Contact us](/get-started/)
 
 {{< /brick_prices >}}
+
+-->
+
 {{< brick_cta >}}{{< /brick_cta >}}

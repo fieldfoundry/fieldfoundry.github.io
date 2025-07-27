@@ -1,22 +1,38 @@
-- title: Hugobricks theme
+- title: Sample Submission
   faqs:
-    - question: Why choose Hugobricks for my next project?
-      answer: Hugo allows you to build a fast, efficient, and scalable website. It offers you a clean separation of concerns, content vs layout and styles. The Hugobricks brings a pagebuilder to that workflow.
-    - question: I need to develop a performant website. Does Hugobricks offer a good performance?
-      answer:  Hugobricks is renowned for its exceptional speed and performance. It is built using the Go programming language, which enables it to generate websites at an astonishing pace. Whether you have a small blog or a large enterprise site, Hugobricks’s speed ensures that your pages load quickly, providing an excellent user experience. This advantage becomes especially significant when dealing with large websites or making frequent updates.
-- title: Scalability, ease of use and flexibility?
+    - question: "What's the first step to ordering?"
+      answer: "The first step is a simple conversation. Contact us to discuss your research goals, and we'll help you plan your analysis and provide a transparent quote."
+    - question: "How do I send you samples?"
+      answer:  "The simple approach is to request [Full Circle Labs](https://fullcirclelabs.bio) sample pickup services.  You order will be processed through Full Circle Labs; a current list of their sample drop-off locations can be found in the [Locate Your Closest Dropbox](https://fullcirclelabs.bio) section of their website.  FCL can also generate shipping labels for you and use Imperial interdepartmental mail."
+    - question: "What about sample preparation?"
+      answer: "We believe you should have full control over your samples. We'll advise you on best practices for steps like filtering, solid phase extraction, and spiking internal standards in. On our end, we perform a complimentary QC screen on all samples for particulates and precipitates using our nephelometer before HPLC measurements are made.  We can perform additional sample preparation steps upon request as an add-on service, including developing new extractions with HPLC and nephelometry measurements in the loop."
+    - question: "What are my ordering and submission options?"
+      answer: "You have two convenient options. You can order directly from us, or you can order through our partner, Full Circle Labs, to use their sample drop-off network and billing system."
+    - question: "What kind of vials or plates can I use?"
+      answer: "We are equipped to handle standard tubes, vials, and SBS-format multi-well plates. If your project uses a custom format, let us know and we will work to accommodate it."
+    - question: "What kinds of samples can you accept?"
+      answer: "During our Early Access Programme, we require a consultation before accepting potentially hazardous materials including clinical samples, sensitizers, cytotoxic agents, and radiolabeled materials. Some of these may not be suitable for our services during early access."
+
+- title: Methods
   faqs:
-    - question: What about scalability and portability
-      answer: Whether you’re building a personal blog or a large-scale enterprise website, Hugobricks scales effortlessly. Its ability to handle thousands of pages with consistent speed and efficiency makes it an ideal choice for projects of any size. Moreover, Hugobricks generates static websites that can be hosted on any web server or content delivery network (CDN) without any specific server requirements, ensuring portability and easy deployment.
-    - question: How easy is it to set up?
-      answer: Hugobricks offers a straightforward and hassle-free setup process. It comes with pre-built binaries for various operating systems, making it accessible to developers across different platforms. Additionally, Hugobricks has a user-friendly command-line interface (CLI) that allows you to create and manage your site effortlessly. Its simplicity makes it a great choice for both experienced developers and beginners alike.
-    - question: How flexible is the offered architecture?
-      answer: Hugobricks provides a flexible architecture that empowers developers to create websites tailored to their specific needs. With its powerful templating system, you can easily customize the look and feel of your site. Hugobricks supports a wide range of themes, allowing you to choose from a vast collection or create your own. Furthermore, its extensive plugin ecosystem enables you to extend its functionality and add features seamlessly.
-- title: Markdown content and SEO
+    - question: "Can you help me develop a new method?"
+      answer: "Yes. We offer a 'Quicklook' service as a first step. This run on a representative sample provides the data needed to plan larger batches and refine your method. This is arranged via consultation during early access."
+    - question: "What if I want to test multiple conditions?"
+      answer: "We can store your sample and run successive measurements for DIY method development. A web interface to streamline this process is coming later this year."
+    - question: "What columns do you have available?"
+      answer: "You have access to our standard C-18, HILIC, biphenyl, and ion-exchange columns. We can also source and install a custom column specifically for your project by arrangement."
+    - question: "What mobile phases are available?"
+      answer: "We stock standard mobile phases like water, methanol, and acetonitrile with common additives. If your method requires a custom mobile phase, we can discuss this during your consultation."
+    - question: "What detectors do you use?"
+      answer: "Our systems have both a Photodiode Array (PDA) detector for UV-active compounds and a universal Refractive Index (RID) detector for analytes with little or no UV absorbance, like simple sugars."
+    - question: "What equipment is in your lab?"
+      answer: "Our primary instruments for early access are Shimadzu LC-2060C 3D and LC-2040C UPLC systems with RID-20A detectors and one FRC-40 fraction collector, plus a BMG LabTech NEPHELOstar Plus for solubility screening. We are always expanding our offerings; please see our [services roadmap](/roadmap/) for updates."
+
+- title: Results
   faqs:
-    - question: What about Markdown and content management?
-      answer: Content creation and management are made convenient with Hugobricks. It supports Markdown, a lightweight markup language that simplifies the process of writing content-rich web pages. Markdown’s simplicity and readability make it a favorite among writers and developers alike. Hugobricks’s content organization system allows you to easily structure your content, making it effortless to manage and update your website’s information.
-    - question: What about SEO-friendliness?
-      answer:  Hugobricks is designed with search engine optimization (SEO) in mind. It generates clean HTML markup, adhering to best practices for search engine discoverability. This helps your site rank higher in search engine results, increasing its visibility to potential visitors. 
-    - question: What about hugobricks security?
-      answer: Additionally, Hugobricks’s static nature eliminates the need for databases or complex server configurations, making it inherently more secure than dynamic content management systems.
+    - question: "What format will my results be in?"
+      answer: "You will receive your results in PDF, .TSV, and .CDF ANDI formats. A standard report includes chromatograms, method details, and peak tables. You can open .CDF files with free software like [OpenChrom](https://www.openchrom.net/)."
+    - question: "Can you calculate concentrations for me?"
+      answer: "Yes. Custom analysis, such as building standard curves and calculating final concentrations, is available as an add-on service."
+    - question: "Are these results suitable for regulated use?"
+      answer: "All our current services are for research purposes only. We do not provide results for regulated testing, such as GMP, at this time, but plan to in the future."

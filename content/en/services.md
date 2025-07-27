@@ -1,15 +1,36 @@
 ---
 title: Services
 ---
-{{< brick_services >}}
+{{< brick_features >}}
 
-{{< breadcrumbs >}}
+## Services
 
-# Services
+Text about services
+---
 
-This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### [Analytical HPLC](/hplc-analysis/)
 
-{{< /brick_services >}}
+We do HPLC.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### [Solubility Testing](/solubility/)
+
+We do solubility testing.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### [Services Roadmap](/roadmap/)
+
+Coming soon.
+
+{{< /brick_features >}}
+
+<!--
+
 {{< brick_blocks >}}
 
 ## Alternative services 1
@@ -125,5 +146,6 @@ Start with the end result.
 
 [](/services/)
 
-{{< /brick_blocks >}}
+{{< /brick_blocks >}} -->
+
 {{< brick_cta >}}{{< /brick_cta >}}
