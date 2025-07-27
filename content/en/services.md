@@ -5,27 +5,27 @@ title: Services
 
 ## Services
 
-Text about services
+Here is an overview of services available during early access, and new services coming soon.
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 ### [Analytical HPLC](/hplc-analysis/)
 
-We do HPLC.
+Rapid and flexible HPLC analysis for R&D. We offer a range of column chemistries including C-18, HILIC, and ion exchange to accelerate your research.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### [Solubility Testing](/solubility/)
 
-We do solubility testing.
+High-throughput solubility screening using our BMG LabTech NEPHELOstar Plus. Quickly determine your compound's solubility limit across a wide range of buffers.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### [Services Roadmap](/roadmap/)
 
-Coming soon.
+See our pipeline of upcoming services, including preparative HPLC, mass spectrometry, and our new website for DIY method development.
 
 {{< /brick_features >}}
 
