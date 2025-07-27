@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Get started with HPLC today!
+## Get started with Field Foundry today!
 
-Need fast, flexible HPLC? Our Early Access Programme is open. Get in touch to start your project.
+Have a question or a project in mind? We'd love to hear from you.
 
-{{< button2 "Learn more now" "/contact/" >}}
+{{< button2 "Start a conversation" "/contact/" >}}
 
 ![](/uploads/illustrations/cuate/server.svg)

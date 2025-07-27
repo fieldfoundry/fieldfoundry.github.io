@@ -55,3 +55,5 @@ Aliquam erat volutpat. Pellentesque mollis dolor sed pretium tincidunt. Morbi pr
 ---
 
 -->
+
+{{< brick_cta >}}{{< /brick_cta >}}
