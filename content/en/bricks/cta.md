@@ -7,4 +7,4 @@ Have a question or a project in mind? We'd love to hear from you.
 
 {{< button2 "Start a conversation" "/contact/" >}}
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cta.png)

@@ -27,7 +27,7 @@ img {filter: grayscale(0);}
 /* colorize_image
 /*------------------------*/
 
-.colorize_image {filter: contrast(1) sepia(1) hue-rotate(160deg) grayscale(0.8)!important;}
+/* .colorize_image {filter: contrast(1) sepia(1) hue-rotate(160deg) grayscale(0.8)!important;} */
 
 /*------------------------*/
 /* black_2_textDark

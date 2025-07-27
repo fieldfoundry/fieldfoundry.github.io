@@ -1,6 +1,6 @@
 - name: New Website
   function: By Q4 2025
-  image: /uploads/icons/ff_black.svg
+  image: /uploads/icons/ff_blue.svg
   description: Enables user-directed method transfer and development, transparent live pricing, and quick result views.
 - name: Standard Purification
   function: By early 2026
@@ -12,8 +12,8 @@
   description: Simple LC-MS for mass-validated liquid chromatography results.
 - name: Open Method Access
   function: In 2026
-  image: /uploads/icons/ff_black.svg
-  description: Request a published method be made available for others to use.  We will assign a DOI to a static webpage with your requested information, including raw data, at no charge.
+  image: /uploads/icons/ff_blue.svg
+  description: Request a method be published for others to use.  We will assign a DOI to a static webpage with your requested information, including raw data, at no charge.
 - name: Preparative HPLC
   function: In 2026
   image: /uploads/icons/ff_teal.svg

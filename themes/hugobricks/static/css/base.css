@@ -8,10 +8,10 @@
     --accentDarker: black;
     --light: rgba(0,0,0,0.03);
 }
-img {filter: grayscale(100%);}
+/* img {filter: grayscale(100%);} */
 
 * {padding: 0; margin: 0; box-sizing: border-box;}
-html {font-size: clamp(14px, 2vw, 20px); line-height: 1.7; height: 100%; scroll-behavior: smooth; background: var(--light); scroll-padding-top: 10rem;}
+html {font-size: clamp(18px, 2vw, 20px); line-height: 1.7; height: 100%; scroll-behavior: smooth; background: var(--light); scroll-padding-top: 10rem;}
 body {font-size: 1rem; background: var(--light);}
 .innerbody {margin: 0 auto; background: white; }
 .innerbody, .innerbody header {max-width: 100%;}
@@ -263,7 +263,8 @@ a[href]:hover .img img {transform: scale(1.075);}
 /* avatar
 /*------------------------*/
 
-.avatar {border-radius: 100%; object-fit: cover; filter: grayscale(100%);}
+/* .avatar {border-radius: 100%; object-fit: cover; filter: grayscale(100%);} */
+.avatar {border-radius: 0; object-fit: cover; filter: none;}
 
 /*------------------------*/
 /* people

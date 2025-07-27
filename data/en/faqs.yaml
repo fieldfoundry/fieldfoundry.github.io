@@ -16,9 +16,9 @@
 - title: Methods
   faqs:
     - question: "Can you help me develop a new method?"
-      answer: "Yes. We offer a 'Quicklook' service as a first step. This run on a representative sample provides the data needed to plan larger batches and refine your method. This is arranged via consultation during early access."
+      answer: "Yes. We offer some standardized measurements, including a 'Quicklook' service, as a first step. This run on a representative sample provides the data needed to plan larger batches and refine your method. During early access, this process is arranged via consultation during early access."
     - question: "What if I want to test multiple conditions?"
-      answer: "We can store your sample and run successive measurements for DIY method development. A web interface to streamline this process is coming later this year."
+      answer: "We can store your sample for a month, and longer by request.  Every stored sample can be used to run successive measurements for DIY method development, repeating standard curves, or anything else you need. A web interface to streamline this process is coming later this year."
     - question: "What columns do you have available?"
       answer: "You have access to our standard C-18, HILIC, biphenyl, and ion-exchange columns. We can also source and install a custom column specifically for your project by arrangement."
     - question: "What mobile phases are available?"
