@@ -148,4 +148,3 @@ Start with the end result.
 
 {{< /brick_blocks >}} -->
 
-{{< brick_cta >}}{{< /brick_cta >}}
