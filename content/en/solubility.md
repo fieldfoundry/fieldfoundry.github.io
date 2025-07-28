@@ -1,8 +1,5 @@
 ---
 title: Solubility Testing
-image: /uploads/photos/07.jpg
-tags:
-  - Available Now
 ---
 
 {{< brick_wide >}}

@@ -1,11 +1,13 @@
 ---
 title: Services
 ---
+
 {{< brick_features >}}
 
 ## Services
 
 Here is an overview of services available during early access, and new services coming soon.
+
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
