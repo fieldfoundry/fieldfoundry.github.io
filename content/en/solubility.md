@@ -1,8 +1,5 @@
 ---
 title: Solubility Testing
-image: /uploads/photos/07.jpg
-tags:
-  - Available Now
 ---
 
 {{< brick_wide >}}
@@ -22,5 +19,3 @@ We offer quantitative solubility analysis using a BMG NEPHELOStar Plus nephelome
 Our system measures turbidity by detecting scattered light as an automated injector introduces your sample into different buffer conditions, providing a rapid and quantitative assessment of solubility.
 
 {{< /brick_wide >}}
-
-{{< brick_cta >}}{{< /brick_cta >}}

@@ -29,3 +29,10 @@ make build
 ```
 
 The output files should be at `public/`
+
+## Clean
+
+To clean the recently generated files from `public/` run:
+```
+make clean
+``` 
