@@ -12,6 +12,7 @@ Field Foundry Ltd
 QMB Innovation Centre  
 Ste 7-2, 1st Floor  
 42 New Road  
-London E1 2AX  
+London E1 2AX 
 
-{{< contactbuttons >}}
+hello@fieldfoundry.com  
++44 (0) 2035760561
