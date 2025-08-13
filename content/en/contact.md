@@ -7,7 +7,7 @@ title: Contact us
 
 # Contact us
 
-Have a question or a project in mind? We'd love to hear from you.
+Have a question or a project in mind? Let's talk.
 
 {{< /brick_title >}}
 {{< brick_contact >}}

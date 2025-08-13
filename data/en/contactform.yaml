@@ -1,4 +1,5 @@
-action: https://formspree.io/f/xpwrnjdy
+# action: https://formspree.io/f/xpwrnjdy
+action: https://submit-form.com/kcKHhIqYj
 placeholders: false
 fields: 
 - name: title
@@ -17,10 +18,10 @@ fields:
   input_type: textarea
   label: Message
   required: false
-# - name: terms
-#   input_type: checkbox
-#   label: I accept the terms and conditions
-#   required: true
+- name: terms
+  input_type: html
+  label: We will use this information to respond to your query.  For more details, see our <a href="/privacy-policy/">Privacy Policy</a>.
+  required: true
 - name: submit
   input_type: submit
   label: Send message
