@@ -11,13 +11,13 @@ title: Terms of Use
 {{< /brick_title >}}
 {{< brick_wide >}}
 
-# WEBSITE TERMS
+## WEBSITE TERMS
 
-**Effective Date : 27 July 2025**
+Effective Date : 27 July 2025
 
 ## WHO WE ARE
 
-[https://fieldfoundry.com/](https://fieldfoundry.com/) (“Website”) is operated by Field Foundry Ltd (“We”/”Company”). We are registered in England and Wales under company number 16292596 and have our registered oﬀice at Qmb Innovation Centre Suite 7, Lab 2 - First Floor, 42 New Road, London, England, E1 2AX.
+[https://fieldfoundry.com/](https://fieldfoundry.com/) (“Website”) is operated by Field Foundry Ltd (“We”/”Company”). We are registered in England and Wales under company number 16292596 and have our registered office at QMB Innovation Centre Suite 7, Lab 2 - First Floor, 42 New Road, London, England, E1 2AX.
 
 ## ACCEPTANCE OF TERMS
 By using our Website, you confirm that you accept these terms of service (“Terms”) and that you agree to comply with them. If you do not agree to these terms, you must not use our site.

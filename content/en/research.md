@@ -9,7 +9,7 @@ tags:
 
 ## Research: Downstream Processing
 
-We are focused on developing high-throughput methods for testing separative processes during bioprocess scale-up.
+We are focused on developing high-throughput methods for testing separation processes during bioprocess scale-up.
 
 ### Let's Collaborate
 

@@ -38,7 +38,7 @@ During our Early Access Programme, we offer a focused suite of analytical servic
 
 * **Consult:** Contact us to discuss how to perform your HPLC measurement and get a quote.
 * **Submit:** Order directly or via Full Circle Labs to use Full Circle sample pickup locations.
-* **Sample Prep:** Samples are prepared for HPLC, including screening for particulate and precipiates.  We will work with you to ensure your samples pass screening.
+* **Sample Preparation:** Samples are prepared for HPLC, including screening for particulate and precipitates.  We will work with you to ensure your samples pass screening.
 * **Analyse:** We run your samples and deliver your processed and raw data in a convenient format.
 {{< /brick_image >}}
 

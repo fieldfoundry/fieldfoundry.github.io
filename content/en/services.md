@@ -20,7 +20,7 @@ Rapid and flexible HPLC analysis for R&D. We offer a range of column chemistries
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### [Solubility Testing](/solubility/)
 
-High-throughput solubility screening using our BMG LabTech NEPHELOstar Plus. Quickly determine your compound's solubility limit across a wide range of buffers.
+High-throughput solubility screening using nephelometry.  Quickly determine your compound's solubility limit across a wide range of buffers.
 
 ---
 
