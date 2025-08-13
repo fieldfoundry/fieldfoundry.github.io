@@ -107,7 +107,7 @@ section.stickstofooter + footer {margin-top: 0; border-top: 0;}
   margin: 0 auto;
 }
 @media (width >= 48rem) {
-  .contact { max-width: 50%; }
+  .contact { max-width: 60%; }
 }
 
 /*------------------------*/
