@@ -101,6 +101,16 @@ section.hasbackgroundcolor + footer {margin-top: 7.5rem;}
 section.stickstofooter + footer {margin-top: 0; border-top: 0;}
 
 /*------------------------*/
+/* contact container
+/*------------------------*/
+.contact {
+  margin: 0 auto;
+}
+@media (width >= 48rem) {
+  .contact { max-width: 50%; }
+}
+
+/*------------------------*/
 /* box
 /*------------------------*/
 

@@ -20,7 +20,7 @@ fields:
   required: false
 - name: terms
   input_type: html
-  label: We will use this information to respond to your query.  For more details, see our <a href="/privacy-policy/">Privacy Policy</a>.
+  label: <small>We will use this information to respond to your query.  For more details, see our <a href="/privacy-policy/">Privacy Policy</a>.</small>
   required: true
 - name: submit
   input_type: submit
