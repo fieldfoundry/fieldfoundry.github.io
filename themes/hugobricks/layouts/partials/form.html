@@ -1,5 +1,5 @@
 <!-- <img src="/form.php" style="position: absolute; opacity: 0; pointer-events: none;" /> -->
-<form id="contactform" class="form" method="POST" action="{{ .action }}">
+<form id="contactform" class="form" method="POST" data-botpoison-public-key="pk_17414faa-7eb4-4284-9ded-eac5a541f632" action="{{ .action }}">
     {{- range .fields -}}
         {{- if eq .input_type `textarea` -}}
             <div>
