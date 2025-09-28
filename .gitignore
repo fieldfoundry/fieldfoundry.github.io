@@ -3,3 +3,9 @@ resources
 _tmp/
 sandbox/
 public/
+.DS_Store
+static/.DS_Store
+static/uploads/.DS_Store
+.DS_Store
+static/.DS_Store
+static/uploads/.DS_Store
