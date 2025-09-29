@@ -6,7 +6,7 @@ title: Analytical HPLC
 
 ## Analytical HPLC Services
 
-Our early access programme offers flexible and rapid analysis tailored to your research needs. We provide a range of column chemistries and detection options to support your project.  Early access is offered in partnership with [https://www.fullcirclelabs.bio/](Full Circle Labs).
+Our early access programme offers flexible and rapid analysis tailored to your research needs. We provide a range of column chemistries and detection options to support your project.  Early access is offered in partnership with [Full Circle Labs](https://www.fullcirclelabs.bio/).
 
 ### Core Capabilities
 
@@ -25,7 +25,7 @@ Our early access programme offers flexible and rapid analysis tailored to your r
 
 ### How It Works
 
-Get in touch through our website or email us at [mailto:hello@fieldfoundry.com](hello@fieldfoundry.com) for more information about early access.  we’re happy to discuss your project, even in the early stages.
+Get in touch through our website or email us at [hello@fieldfoundry.com](mailto:hello@fieldfoundry.com) for more information about early access.  we’re happy to discuss your project, even in the early stages.
 
 When you are ready to send samples, start by telling us what you would like to measure. We can then set up an order through your Full Circle Labs account or directly with us. Samples can be submitted using Full Circle Labs’ dropboxes or by post to us, and once they reach our lab we run the analysis. Results are returned directly by email in standard formats.
 
