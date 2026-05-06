@@ -16,7 +16,7 @@ New compound, new sample type, or no configured method yet? Start here.
 |---|---:|
 | A description of what you need to measure, plus representative samples | From £800 |
 
-You describe what you need to know; we get the measurement working and make it available for repeat ordering.
+You describe what you need to know; we get the measurement working and make it available for repeat ordering. We measure a small number of your samples during Setup, confirm the method works, and report results. When you have more samples to run, you order Sample Analysis.
 
 Our services are for research and development use. We do not currently offer accredited, regulatory, clinical diagnostic, forensic, or release testing. Complex measurements or difficult sample types may increase the cost. If we discover additional complexity during setup, we share our findings and discuss options before continuing.
 
