@@ -1,0 +1,128 @@
+/* Header clearance: header is position:absolute, ~6rem tall */
+header + section,
+header + section:not(.bgimage) { padding-top: 7rem !important; }
+
+/* Header (nav bar) sizing */
+header .container { padding-top: 0.5rem !important; padding-bottom: 0.5rem !important; }
+
+/* Uniform section spacing: 0.25rem each side = 0.5rem total inter-section gap */
+section,
+section.hasbackgroundcolor { padding: 0.25rem 0 !important; margin: 0 !important; }
+
+/* Brick_image2 styling: drop the grey background, keep image-left layout */
+section.image.alt { background: transparent !important; border: 0 !important; }
+
+/* Two-column (brick_image / brick_image2) layout */
+section.image .twocols { align-items: center !important; }
+section.image .twocols .text { padding-bottom: 1.5rem !important; }
+
+/* Buttons side-by-side in brick_image hero */
+section.image .text p:has(a.button) { display: inline; }
+section.image .text a.button { margin: 0 0.5rem 0.5rem 0 !important; display: inline-block !important; }
+
+/* Image sizing */
+section.image .twocols .image img { width: 85% !important; height: auto !important; max-height: none !important; object-fit: contain !important; border-radius: 1rem; margin: 0 auto !important; display: block !important; }
+section.cta .twocols .image img { max-height: 350px; object-fit: cover; }
+section.about .container p img { aspect-ratio: auto; border-radius: 1rem; width: 100%; max-width: 100%; max-height: 350px; object-fit: cover; }
+
+/* CTA internal layout */
+section.cta .twocols { gap: 1rem !important; padding: 1rem !important; }
+
+/* Center the CTA text and button */
+section.cta .text { text-align: center !important; }
+section.cta .text h2 { text-align: center !important; }
+section.cta .text p { text-align: center !important; }
+section.cta .text a.button { margin: 0 auto !important; display: inline-block !important; }
+
+/* Features grid */
+ul.features { gap: 1rem 2rem !important; padding-bottom: 0 !important; }
+
+/* Typography */
+h2 { margin-top: 0 !important; margin-bottom: 0.75rem !important; }
+h3 { margin-top: 0 !important; margin-bottom: 0.25rem !important; }
+.container.small { padding: 0.5rem 0 !important; }
+
+/* Center-align text and buttons in brick_image sections */
+section.image .text { text-align: center !important; }
+section.image .text a.button { margin-left: auto; margin-right: auto; }
+
+/* Center and size feature icons */
+ul.features li { text-align: center !important; padding: 0.25rem 0 !important; }
+ul.features li.has_icon p.image { width: 80px !important; height: 80px !important; padding: 0.5rem !important; margin: 0 auto !important; }
+ul.features li.has_icon p.image img { width: 40px !important; height: 40px !important; }
+
+/* Tighten features section internal spacing */
+ul.features { gap: 0.5rem 1.5rem !important; }
+
+/* Reduce gap between section heading and feature grid */
+section.features .container.small { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+section.features .container { padding-top: 0 !important; }
+
+/* Center-align How it works section */
+section.wide .container { text-align: center !important; }
+section.wide .container p { max-width: 800px; margin-left: auto; margin-right: auto; }
+
+/* Tighten CTA internal padding */
+section.cta .twocols { padding: 0.5rem 1rem !important; }
+
+/* Add space above "What can we help you measure" features section */
+section.image + section.features { padding-top: 1.5rem !important; }
+
+/* Add padding around "How it works" wide section */
+section.wide { padding: 1rem 0 !important; }
+section.wide .container { padding: 0.5rem 0 !important; }
+
+/* Table styling */
+table { width: auto; text-align: left; margin: 0.5rem auto !important; }
+table td, table th { padding: 0.4rem 1rem !important; line-height: 1.4 !important; }
+table th { border-bottom: 2px solid var(--borderMedium); }
+
+/* Left-align long-form text pages (FAQ, pricing, services, about, etc.) */
+section.faq .container { text-align: left !important; }
+section.faq .container h3 { text-align: left !important; }
+section.faq .container p { text-align: left !important; }
+section.docs .container { text-align: left !important; }
+section.wide .container p { text-align: left !important; }
+
+/* Override the center-align from wide sections on non-homepage pages */
+body:not(.filename__index) section.wide .container { text-align: left !important; }
+body:not(.filename__index) section.wide .container p { text-align: left !important; max-width: none; margin-left: 0; margin-right: 0; }
+
+/* Make sure pricing page tables and text are left-aligned */
+body.filename_pricing section { text-align: left !important; }
+body.filename_pricing .container { text-align: left !important; }
+body.filename_pricing .container.small { text-align: left !important; }
+
+/* FAQ page padding */
+section.faq .container { padding-left: 2rem !important; padding-right: 2rem !important; }
+
+/* Services page (and other brick_wide pages): left/right padding */
+section.wide .container { padding-left: 2rem !important; padding-right: 2rem !important; }
+
+/* Centre all section headings consistently */
+section h2 { text-align: center !important; }
+
+/* Keep body text left-aligned in image, wide, and features sections (not blog/docs/etc.) */
+section.image .text h3, section.image .text p, section.wide p, section.features li { text-align: left !important; }
+
+/* Striped table rows */
+table tr:nth-child(even) { background-color: rgba(8, 52, 95, 0.04) !important; }
+table tr:nth-child(odd) { background-color: transparent !important; }
+
+/* Compact footer: reduce both rows */
+footer > div:first-child .container { padding-top: 1.5rem !important; padding-bottom: 1.5rem !important; }
+footer > div:last-child .container { padding-top: 0.5rem !important; padding-bottom: 0.5rem !important; }
+footer > div:last-child .container > div p { margin: 0 !important; }
+/* On mobile the third column centres like the others */
+@media (max-width: 1000px) {
+  footer > div:first-child .container > div:last-child { text-align: center !important; }
+}
+
+/* Increase text contrast globally */
+:root {
+  --textMedium: rgba(8, 52, 95, 0.85) !important;
+  --textDark: rgba(8, 52, 95, 1) !important;
+}
+section { color: var(--textDark) !important; }
+section p, section li, section td { color: rgba(8, 52, 95, 0.85) !important; }
+section h1, section h2, section h3 { color: rgba(8, 52, 95, 1) !important; }

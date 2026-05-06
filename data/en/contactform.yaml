@@ -1,10 +1,10 @@
 # action: https://formspree.io/f/xpwrnjdy
 action: https://submit-form.com/kcKHhIqYj
 placeholders: false
-fields: 
+fields:
 - name: title
   input_type: html
-  label: <h3>We'd love to hear from you!</h3>
+  label: <h3>Tell us about your project</h3><p><small>What do you want to measure? What are your samples? Do you have a method or published paper? Roughly how many samples?</small></p>
   required: true
 - name: name
   input_type: text

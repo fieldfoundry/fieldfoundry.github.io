@@ -1,21 +1,19 @@
 logo_image: /uploads/FieldFoundryLogoWhite.svg
-logo_subtitle: HPLC Made Easy
+logo_subtitle: ""
 dark_header: true
 mobile_view_width: 960
 menuitems:
-  - title: Home
-    link: /
   - title: Services
     link: /services/
     items:
-      - title: Analytical HPLC
-        link: /hplc-analysis/
-      - title: Solubility Testing
-        link: /solubility/
-      - title: Services Roadmap
-        link: /roadmap/
-  - title: Research
-    link: /research/
+      - title: Analytical Services
+        link: /services/
+      - title: Process Development
+        link: /process-development/
+  - title: Pricing
+    link: /pricing/
+  - title: About
+    link: /about/
   - title: FAQs
     link: /faq/
   - title: Blog
@@ -24,4 +22,4 @@ cta:
   active: true
   title: Get in touch
   link: /contact/
-preheader: open Mon-Fri from 9-5
+preheader: ""

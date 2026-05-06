@@ -1,36 +1,41 @@
 ---
-title: Analytical HPLC
+title: HPLC and UPLC Analysis
+image: /uploads/FFwebsite_A.jpg
+tags:
+  - Available Now
 ---
 
 {{< brick_wide >}}
 
-## Analytical HPLC Services
+## HPLC and UPLC Analysis
 
-Our HPLC early access programme offers flexible and rapid analysis tailored to your research needs. We provide a range of column chemistries and detection options to support your project.  Early access is offered in partnership with [Full Circle Labs](https://www.fullcirclelabs.bio/).
+High-performance liquid chromatography (HPLC) and ultra-high-performance liquid chromatography (UPLC) are the foundation of our analytical services. We run reverse-phase, HILIC, size-exclusion, and hydrophobic interaction chromatography with UV/PDA and refractive index detection.
 
-### Core Capabilities
+### What we measure
 
-* **Column Chemistries:** We offer standard methods using Reversed-Phase (C-18), Hydrophilic Interaction (HILIC), carbohydrate/organic-acid separations using ion-exchange and ligand-exchange approaches, and wide-pore stationary phases for peptides, proteins, and antibodies.
-* **Column Library:** More than 30 columns are available, covering multiple stationary phases and pore sizes. Our library is growing and we can usually match a specific separation to an appropriate stationary phase quickly for method development.
-* **Detection Systems:** Photodiode array (PDA) for optical detection and peak-purity checks, and refractive index (RID) for analytes with little or no UV absorbance (for example, many sugars, polyols, and solvents).
-* **Sample Quality Control:** We use nephelometry to screen all incoming samples for particulates and precipitation in your chosen mobile phase. If an issue is detected, we will discuss options before proceeding.
+Small molecules, natural products, pharmaceuticals, metabolites, sugars, organic acids, proteins (by SEC/HIC), food additives, and more. If it dissolves and can be separated on a column, we can probably measure it.
 
-### What You Can Do Now
+### Refractive index detection
 
-* Confirm intended products and quantify titres from protein expression, engineered metabolism, and enzymatic reactions, supporting strain, media, and process comparisons.
-* Quantify sugars, organic acids, and other small molecules in media, fermentation samples, and extracts.
-* Verify raw-material composition against specifications.
-* Assess concentrations of target and trace components in environmental or agricultural samples.
-* Measure targets your plate reader or in-house HPLC may not resolve, including non-UV-active analytes.
+Available on our Shimadzu instruments. Essential for compounds that UV cannot detect: sugars, polyols, organic acids, ethanol. Many competitors do not offer RID. If you are doing fermentation work and need to track glucose consumption or organic acid production alongside your target compound, this matters.
 
-### How It Works
+### How it works
 
-Get in touch through our website or email us at [hello@fieldfoundry.com](mailto:hello@fieldfoundry.com) for more information about early access.  We are happy to discuss your project, even in the early stages.
+1. You tell us what you need to measure and what your samples are.
+2. We configure the method during Method Setup (from £800).
+3. You send samples. We run them and return results.
+4. For future batches, select your method and check out. No repeat setup needed.
 
-When you are ready to send samples, start by telling us what you would like to measure. We can then set up an order through your Full Circle Labs account or directly with us. Samples can be submitted using Full Circle Labs’ dropboxes or by post to us, and once they reach our laboratory we run the analysis. Results are returned directly by email in standard formats.
-
-Our early access services are for research use only; results from early access are not approved for regulated or diagnostic testing.
+See our [pricing page](/pricing/) for detailed cost examples.
 
 {{< /brick_wide >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_cta >}}
+
+## Get in touch to discuss your measurement
+
+{{< button "Get in touch" "/contact/" >}}
+
+![](/uploads/FFwebsite_3.jpg)
+
+{{< /brick_cta >}}

@@ -1,38 +1,41 @@
-- title: Sample Submission
+- title: Getting Started
   faqs:
-    - question: "What is the first step to ordering?"
-      answer: "The first step is a simple conversation. Contact us to discuss your research goals, and we will help you plan your analysis and provide a transparent quote."
-    - question: "How do I send you samples?"
-      answer:  "The simple approach is to request [Full Circle Labs](https://fullcirclelabs.bio) sample pickup services.  You order will be processed through Full Circle Labs; a current list of their sample drop-off locations can be found in the [Locate Your Closest Dropbox](https://fullcirclelabs.bio) section of their website.  FCL can also generate shipping labels for you and use Imperial interdepartmental mail."
-    - question: "How does sample preparation work?"
-      answer: "We believe you should have full control over your samples. We'll advise you on best practices for steps such as filtering, solid phase extraction, and spiking in internal standards. On our end, we perform a complimentary QC screen on all samples for particulates and precipitates using our nephelometer before HPLC measurements are made.  We can perform additional sample preparation steps upon request as an add-on service, including developing new extractions with HPLC and nephelometry measurements in the loop."
-    - question: "What are my ordering and submission options?"
-      answer: "You have two convenient options. You can order directly from us, or you can order through our partner, Full Circle Labs, to use their sample drop-off network and billing system."
-    - question: "What kind of vials or plates can I use?"
-      answer: "We are equipped to handle standard tubes, vials, and SBS-format multi-well plates. If your project uses a custom format, let us know and we will work to accommodate it."
-    - question: "What kinds of samples can you accept?"
-      answer: "During our Early Access Programme, we require a consultation before accepting potentially hazardous materials including clinical samples, sensitisers, cytotoxic agents, and radiolabelled materials. Some of these may not be suitable for our services during early access."
+    - question: "How do I start working with you?"
+      answer: "Tell us what you need to measure and what your samples are. We will recommend an approach, quote a price, and explain what you will receive. Most customers go from first contact to samples submitted within days."
+    - question: "Do I need to know which analytical method to use?"
+      answer: "No. You describe what you need to know (a concentration, a composition check, whether something is present). We determine the method, the instrument, and the conditions. That is what Method Setup is for."
+    - question: "What is Method Setup?"
+      answer: "We get your measurement working on our instruments, test it on your samples, and set it up so you can reorder in the future. It starts at £800."
+    - question: "What if you have already measured my analyte for another customer?"
+      answer: "Every method is configured for your specific samples and matrix. Even if we have measured the same compound before, your matrix may behave differently. Method Setup ensures the measurement works for your samples specifically."
 
-- title: Methods
+- title: Pricing and Payment
   faqs:
-    - question: "Can you help me develop a new method?"
-      answer: "Yes. We offer some standardised measurements, including a 'quick look' service, as a first step. This run on a representative sample provides the data needed to plan larger batches and refine your method. During early access, any method development needed starts with our first conversation."
-    - question: "What if I want to test multiple conditions?"
-      answer: "We can store your sample for a month, and longer by request.  Every stored sample can be used to run successive measurements for DIY method development, repeating standard curves, or anything else you need. A web interface to streamline this process is coming later this year."
-    - question: "Which columns are available?"
-      answer: "You have access to our standard C-18, HILIC, and ion-exchange columns. Our library of standard columns will expand over the next months.  We can also source and install a custom column specifically for your project by prior arrangement."
-    - question: "Which mobile phases are available?"
-      answer: "We stock standard reverse phase solvents such as water, methanol, and acetonitrile with common additives. If your method requires a custom mobile phase, we can discuss this during your consultation."
-    - question: "Which detectors are available?"
-      answer: "Our systems have both a Photodiode Array (PDA) detector for UV-active compounds and a universal Refractive Index (RID) detector for analytes with little or no UV absorbance, such as simple sugars."
-    - question: "Which equipment is available?"
-      answer: "Our primary instruments for early access are Shimadzu LC-2060C 3D and LC-2040C UPLC systems with RID-20A detectors and one FRC-40 fraction collector.  We maintain two Agilent 1100 HPLC systems with DAD detectors for certain specialised requests.  We maintain one BMG LabTech NEPHELOstar Plus for solubility screening. We are always expanding our offerings; please see our [services roadmap](/roadmap/) for updates."
+    - question: "Why is there a batch fee?"
+      answer: "Every batch requires instrument setup, calibration, blanks, and data review regardless of how many samples you send. The batch fee covers this fixed work. Larger batches are cheaper per sample because this fee is spread across more samples."
+    - question: "Do you offer discounts?"
+      answer: "Yes. We offer discounts for universities, research institutes, and registered nonprofits, and can discuss pricing for high-volume customers. Email hello@fieldfoundry.com to find out more."
+    - question: "Does sample preparation cost extra?"
+      answer: "Routine preparation (filtering, dilution, centrifugation) is built into your method's per-sample price during Setup. If your samples need a new extraction or cleanup protocol developed from scratch, that work is quoted separately during Method Setup."
+    - question: "How do I pay?"
+      answer: "Card payment via Stripe is the default. Purchase order terms (30 days) are available for approved customers."
 
-- title: Results
+- title: Samples and Results
   faqs:
-    - question: "What format will my results be in?"
-      answer: "You will receive your results in PDF, .TSV, and .CDF ANDI formats. A standard report includes chromatograms, method details, and peak tables. You can open .CDF files with the open source tool [OpenChrom](https://github.com/OpenChrom/openchrom?tab=readme-ov-file)."
-    - question: "Can you calculate concentrations for me?"
-      answer: "Yes. Custom analysis, such as building standard curves and calculating final concentrations, is available as an add-on service."
-    - question: "Are these results suitable for regulated use?"
-      answer: "All our current services are for research purposes only. We do not provide results for regulated testing, such as GLP/GMP, at this time.  We may offer additional services in the future."
+    - question: "What sample formats do you accept?"
+      answer: "Vials (1.5 mL or 2 mL) and 96-well plates. We provide specific sample preparation instructions after Method Setup so you know exactly how to prepare and send your samples."
+    - question: "How quickly will I get results?"
+      answer: "We work fast. Turnaround depends on your method and our current queue, and we provide an estimate when we quote. If you need results urgently, ask about priority turnaround when you get in touch."
+    - question: "What do I get back?"
+      answer: "Every order includes chromatograms and raw data files. Method Setup delivers a written description of your configured method. Sample Analysis delivers a results summary answering your question directly (concentrations, area-percentage composition, or detection statements). If you need a specific reporting format, let us know when you get in touch."
+    - question: "Can I use your results for regulatory submissions?"
+      answer: "Our services are built for research and development speed, not regulatory submission. We do not currently offer accredited, regulatory, clinical diagnostic, forensic, or release testing."
+
+- title: Technical
+  faqs:
+    - question: "What instruments do you use?"
+      answer: "We currently run in-house HPLC with UV/PDA/RID detection. We may be able to arrange mass spectrometry identity confirmation for suitable projects, and we are expanding our in-house capabilities."
+    - question: "Can you measure compounds that do not absorb UV light?"
+      answer: "Yes. Our Shimadzu instruments have refractive index detectors (RID) for sugars, polyols, organic acids, and other UV-transparent compounds. This is particularly useful for fermentation monitoring."
+    - question: "Can you measure the purity of my compound?"
+      answer: "Yes. How we measure it depends on your samples and what you need the data for. Tell us about your project and we will recommend the right approach."

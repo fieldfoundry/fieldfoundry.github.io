@@ -1,24 +1,4 @@
-- name: New Web Tools
-  function: By early 2026
-  image: /uploads/icons/ff_blue.svg
-  description: Enables user-directed method transfer and development, transparent live pricing, and quick result views.
-- name: Standard Purification
-  function: By early 2026
-  image: /uploads/icons/ff_teal.svg
-  description: Semi-preparative HPLC enables purification of milligrams of material, including standards that are not commercially available.
-- name: Mass Validation
-  function: By early 2026
-  image: /uploads/icons/ff_teal.svg
-  description: Simple LC-MS for mass-validated liquid chromatography results.
-- name: Open Method Access
-  function: In 2026
-  image: /uploads/icons/ff_blue.svg
-  description: Request a method be published for others to use.  We will assign a DOI to a static webpage with your requested information, including raw data, at no charge.
-- name: Preparative HPLC
-  function: In 2026
-  image: /uploads/icons/ff_teal.svg
-  description: Purification of 100+ milligrams of material, useful for developing engineering samples.
-- name: UKAS Lab Accreditation
-  function: In 2026
-  image: /uploads/icons/ff_blue.svg
-  description: We are pursuing ISO certification(s) and UKAS lab accreditation in the coming year.  Let us know if you have specific requirements.
+# Intentionally empty.
+# Previously held stale roadmap entries; now cleared.
+# Add real customer testimonials here when available, or delete this file.
+[]

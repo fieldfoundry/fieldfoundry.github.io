@@ -1,10 +1,12 @@
 ---
 title: cta
 ---
-## Get started with Field Foundry today!
+## Ready to get started?
 
-Have a question or a project in mind? We'd love to hear from you.
+Have a measurement in mind? Get in touch and we will figure out how to do it.
 
-{{< button2 "Start a conversation" "/contact/" >}}
+[hello@fieldfoundry.com](mailto:hello@fieldfoundry.com)
 
-![](/uploads/illustrations/cta.png)
+{{< button "Get in touch" "/contact/" >}}
+
+![](/uploads/FFwebsite_8.jpg)

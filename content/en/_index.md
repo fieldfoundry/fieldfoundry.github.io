@@ -1,162 +1,103 @@
 ---
 title: Home
 ---
-{{< brick_intro >}}
 
-# HPLC Made Easy
+{{< brick_image >}}
 
-We provide fast, flexible HPLC services for research purposes. Our HPLC Ghost Lab is available through an early access programme starting 1 August. Get in touch for more information.
+# Send Samples. Get Answers.
 
-{{< button "Request Early Access" "/contact/" >}}
+We run liquid chromatography measurements for biotech startups, research groups, food and beverage producers, and preclinical research teams. Published pricing. Results in days, not weeks.
 
-![](/uploads/illustrations/hplc_service.png)
+{{< button "See Pricing" "/pricing/" >}} {{< button2 "Get in touch" "/contact/" >}}
 
-{{< /brick_intro >}}
+![](/uploads/FFwebsite_0.jpg)
+
+{{< /brick_image >}}
 
 {{< brick_image2 >}}
 
-## Our Services
+### Open pricing
 
-![](/uploads/illustrations/hplc_service_2.png)
+Understand your costs from the beginning. We publish prices and quote fixed fees before work starts.
 
-During our Early Access Programme, we offer a focused suite of analytical services designed to accelerate your research. We can assist at every stage, from initial method design to final data interpretation. Our core services include:
+### Fast results
 
-* Method Transfer
-* Method Development
-* Sample Preparation Support
-* UV-Vis (PDA) and Refractive Index (RID) Detection
-* Data Analysis and Reporting
-* High-Throughput Solubility Screening
+We return data in days, not weeks.
+
+![](/uploads/FFwebsite_2.jpg)
 
 {{< /brick_image2 >}}
 
 {{< brick_image >}}
 
-## How Early Access Works
+### Built for throughput
 
-![](/uploads/illustrations/hplc.png)
+Single samples to full screening campaigns. We run directly from 96-well plates.
 
-* **Consult:** Contact us to discuss how to perform your HPLC measurement and get a quote.
-* **Submit:** Order directly or via Full Circle Labs to use Full Circle sample pickup locations.
-* **Sample Preparation:** Samples are prepared for HPLC, including screening for particulate and precipitates.  We will work with you to ensure your samples pass screening.
-* **Analyse:** We run your samples and deliver your processed and raw data in a convenient format.
+### Your data, open
+
+Raw data in machine-readable formats available on request for every measurement.
+
+![](/uploads/FFwebsite_B.jpg)
+
 {{< /brick_image >}}
 
-<!-- Sections to fill in later
-
-{{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_features >}}
 
-
-
-## The Ultimate Hugo theme
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+## What can we help you measure?
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+![](/img/icons/material-symbols/200/rounded/biotech.svg)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+### How much of X is in my sample?
 
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
-
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Concentration measurement. Calibrated quantitation using reference standards. The most common thing our customers ask for.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+![](/img/icons/material-symbols/200/rounded/bar_chart.svg)
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+### What does my sample contain?
 
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Composition profiling by chromatographic separation. Useful for comparing batches, tracking changes, or identifying unexpected peaks.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
 
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+### Is X present in my sample?
+
+Detection and screening. A clear yes-or-no answer about whether a specific compound is present.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
+![](/img/icons/material-symbols/200/rounded/devices.svg)
 
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+### Is this really the compound I think it is?
+
+Identity confirmation can be arranged for suitable projects. We will recommend it when it adds value to your result.
 
 {{< /brick_features >}}
 
-{{< brick_prices >}}
+{{< brick_wide >}}
 
-## Our friendly pricing
+## How it works
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+First time? Tell us what you need to measure. We configure a method for your samples and quote a fixed price. After that, reorder any time: select your method, enter your samples, check out. Send samples via our sample drop-off network, by post, or arrange a courier. We provide clear preparation instructions for your specific method so your samples arrive ready to run.
 
----
+{{< /brick_wide >}}
 
-**budget**
-### Open-source
+{{< brick_cta >}}
 
-Full-featured theme/page builder to create super fast & amazing website
+## Ready to get started?
 
-### _$_**0**/month
+Have a measurement in mind? Get in touch and we will figure out how to do it.
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
+[hello@fieldfoundry.com](mailto:hello@fieldfoundry.com)
 
-[Get started](/get-started/)
+{{< button "Get in touch" "/contact/" >}}
 
----
+![](/uploads/FFwebsite_8.jpg)
 
-**most popular**
-
-### Hosted
-
-Everything in one toolkit – We host your website on our top-notch infrastructure.
-
-### _$_**25**/month
-
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-- Form handling + notifications
-- CMS system for editors
-
-[Yes, pick me!](/get-started/)
-
----
-
-**everything**
-
-### Enterprise
-
-Get exceptional value and cost savings with our complete products suite.
-
-### _$_**75**/month
-
-- All other features plus:
-- High priority support 
-- Theme adjustments
-- Custom bricks (on request)
-
-[Contact us](/get-started/)
-
-{{< /brick_prices >}}
-
--->
-
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< /brick_cta >}}

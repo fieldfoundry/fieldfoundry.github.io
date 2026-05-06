@@ -1,7 +1,7 @@
 ---
-title: F.A.Q.
+title: FAQs
 image:
---- 
+---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}

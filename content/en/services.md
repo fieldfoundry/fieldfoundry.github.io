@@ -1,155 +1,81 @@
 ---
-title: Services
+title: Analytical Services
 ---
+
+{{< brick_wide >}}
+
+## Analytical Services
+
+We measure things in our customers' samples using in-house liquid chromatography. Where identity confirmation or additional analytical evidence would add value, we can discuss the appropriate route. You describe what you need to know. We handle the method, the instruments, and the data.
+
+Our services are for research and development use. We do not currently offer accredited, regulatory, clinical diagnostic, forensic, or release testing.
+
+{{< /brick_wide >}}
 
 {{< brick_features >}}
 
-## Services
-
-Here is an overview of services available during early access, and new services coming soon.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### [Analytical HPLC](/hplc-analysis/)
-
-Rapid and flexible HPLC analysis for R&D. We offer a range of column chemistries including C-18, HILIC, and ion exchange to accelerate your research.
+## Core capabilities
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### [Solubility Testing](/solubility/)
 
-High-throughput solubility screening using nephelometry.  Quickly determine your compound's solubility limit across a wide range of buffers.
+### How much is in my sample?
+
+Concentration measurement, calibrated against reference standards. The most common question we answer.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### [Services Roadmap](/roadmap/)
+![](/img/icons/material-symbols/200/rounded/timer.svg)
 
-See our pipeline of upcoming services, including preparative HPLC, mass spectrometry, and our new website for DIY method development.
+### Is this compound present?
+
+Detection and screening. Identity confirmation by retention time and UV spectrum matching against a reference standard. A clear answer with chromatographic evidence.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+
+### What does my sample contain?
+
+Peak profiling and composition analysis by chromatographic separation. We report area-percentage composition at the detection wavelength, identify system and solvent artifacts, and compare batches or samples against reference materials. Useful for batch-to-batch comparison, impurity inventory, and tracking changes over time.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+
+### Is this the right compound?
+
+Identity confirmation by mass spectrometry is available by arrangement for suitable projects. We will recommend this where it adds value to the analytical result.
 
 {{< /brick_features >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_wide >}}
 
+## Techniques
 
-<!--
+We select the right technique for your measurement during Method Setup. Our current capabilities include reverse-phase HPLC and UPLC for most small-molecule work, size-exclusion and hydrophobic interaction chromatography for proteins and polymers on dedicated high-salt instruments, and detection of non-UV-absorbing compounds such as sugars and organic acids. Mass spectrometry support may be available by arrangement for suitable projects; get in touch if your project may benefit.
 
-{{< brick_blocks >}}
+{{< /brick_wide >}}
 
-## Alternative services 1
+{{< brick_wide >}}
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+## Sample preparation
 
----
+Some samples need preparation before analysis (filtration, dilution, solid phase extraction, or other techniques). We configure the preparation protocol during Method Setup and include the cost in your per-sample price. You do not need to decide what preparation is needed; we determine this during Setup.
 
-![](/uploads/gallery/01.jpg)
-### Covers all components
+If your samples require more involved preparation such as solid phase extraction, this is configured as a separate setup step.
 
-Includes many bricks.
+{{< /brick_wide >}}
 
-[](/services/)
+{{< brick_cta >}}
 
----
+## Tell us what you need to measure
 
-![](/uploads/gallery/02.jpg)
-### 99+ Google Lighthouse score
+We will recommend an approach.
 
-Lightning fast website.
+{{< button "Get in touch" "/contact/" >}}
 
-[](/services/)
+![](/uploads/FFwebsite_3.jpg)
 
----
-
-![](/uploads/gallery/03.jpg)
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/services/)
-
----
-
-![](/uploads/gallery/04.jpg)
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/services/)
-
----
-
-![](/uploads/gallery/05.jpg)
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/services/)
-
----
-
-![](/uploads/photos/06.jpg)
-### 10+ pre-build pages
-
-Start with the end result.
-
-[](/services/)
-
-{{< /brick_blocks >}}
-{{< brick_blocks >}}
-
-## Alternative services 2
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-### Covers all components
-
-Includes many bricks.
-
-[](/services/)
-
----
-
-### 99+ Google Lighthouse score
-
-Lightning fast website.
-
-[](/services/)
-
----
-
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/services/)
-
----
-
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/services/)
-
----
-
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/services/)
-
----
-
-### 10+ pre-build pages
-
-Start with the end result.
-
-[](/services/)
-
-{{< /brick_blocks >}} -->
-
+{{< /brick_cta >}}

@@ -3,10 +3,29 @@ title: About
 ---
 {{< brick_about >}}
 
-# Hello from Field Foundry
+# About Field Foundry
 
-We are a team of experienced scientists and engineers dedicated to providing accessible, simple to use HPLC services. In parallel with our services, we operate an active research program to address fundamental challenges in purification and biomanufacturing.  Based in Whitechapel, London, we started operations in 2025.
+Field Foundry is an analytical chemistry laboratory in Whitechapel, London, based at the Queen Mary Innovation Centre. We run in-house liquid chromatography measurements for external customers and are expanding our analytical capabilities.
+
+Our customers include biotech startups, university research groups, food and beverage producers, and preclinical research teams. We publish our prices, we return results quickly, and we accept projects of any size.
+
+![](/uploads/FFwebsite_8.jpg)
 
 {{< /brick_about >}}
-{{< brick_cta >}}{{< /brick_cta >}}
 
+{{< brick_map >}}
+{{< /brick_map >}}
+
+{{< brick_cta >}}
+
+## Ready to get started?
+
+Have a measurement in mind? Get in touch and we will figure out how to do it.
+
+[hello@fieldfoundry.com](mailto:hello@fieldfoundry.com)
+
+{{< button "Get in touch" "/contact/" >}}
+
+![](/uploads/FFwebsite_0.jpg)
+
+{{< /brick_cta >}}
